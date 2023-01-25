@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sources\\Repositories\\ms-jonnathan-repository\\exceptions-maker-app\\ExceptionMaker\\ExceptionMaker\\ExceptionMaker.csproj": {}
+    "C:\\Sources\\ms-jonnathan-repository\\exceptions-maker-app\\ExceptionMaker\\ExceptionMaker\\ExceptionMaker.csproj": {}
   },
   "projects": {
-    "C:\\Sources\\Repositories\\ms-jonnathan-repository\\exceptions-maker-app\\ExceptionMaker\\ExceptionMaker\\ExceptionMaker.csproj": {
+    "C:\\Sources\\ms-jonnathan-repository\\exceptions-maker-app\\ExceptionMaker\\ExceptionMaker\\ExceptionMaker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sources\\Repositories\\ms-jonnathan-repository\\exceptions-maker-app\\ExceptionMaker\\ExceptionMaker\\ExceptionMaker.csproj",
+        "projectUniqueName": "C:\\Sources\\ms-jonnathan-repository\\exceptions-maker-app\\ExceptionMaker\\ExceptionMaker\\ExceptionMaker.csproj",
         "projectName": "ExceptionMaker",
-        "projectPath": "C:\\Sources\\Repositories\\ms-jonnathan-repository\\exceptions-maker-app\\ExceptionMaker\\ExceptionMaker\\ExceptionMaker.csproj",
-        "packagesPath": "C:\\Users\\jonnathan.rios\\.nuget\\packages\\",
-        "outputPath": "C:\\Sources\\Repositories\\ms-jonnathan-repository\\exceptions-maker-app\\ExceptionMaker\\ExceptionMaker\\obj\\",
+        "projectPath": "C:\\Sources\\ms-jonnathan-repository\\exceptions-maker-app\\ExceptionMaker\\ExceptionMaker\\ExceptionMaker.csproj",
+        "packagesPath": "C:\\Users\\jonna\\.nuget\\packages\\",
+        "outputPath": "C:\\Sources\\ms-jonnathan-repository\\exceptions-maker-app\\ExceptionMaker\\ExceptionMaker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jonnathan.rios\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jonna\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -63,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
