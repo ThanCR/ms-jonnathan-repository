@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Exception Maker App</h1>
+    <p>Choose the exception you want to create</p>
+</div>
+
+<div class="card" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">DivisionByZero</h5>
+    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="MathExceptionGeneration">Generate</a>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">StackOverFlow</h5>
+    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="StackOverflowExceptionGeneration">Generate</a>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">MemoryLeak</h5>
+    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="MemoryLeakGeneration">Generate</a>
+  </div>
+</div>
