@@ -50,6 +50,14 @@ namespace ProgrammingEssentials
             //    Console.WriteLine("\n-------------------------------");
             //}
 
+            //int i = 0;
+            //while (i < people.Length)
+            //{
+            //    Console.WriteLine(people[i].ToString());
+            //    Console.WriteLine("\n-------------------------------");
+            //    i++;
+            //}
+
             //Console.WriteLine(person2.legalAge);
             //Console.WriteLine(person1.legalAge);
 
