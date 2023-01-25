@@ -12,8 +12,6 @@ namespace ProgrammingEssentials.Models
         public string name { get; set; }
         public int age { get; set; }
         public string lastName { get; set; }
-
-        //DECLARING PRIVATE OBJECT VARIABLES
         public bool legalAge { get; set; }
 
 
