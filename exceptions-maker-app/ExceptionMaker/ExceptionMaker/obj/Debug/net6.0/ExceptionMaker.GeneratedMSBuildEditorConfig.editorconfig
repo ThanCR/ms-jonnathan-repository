@@ -5,52 +5,53 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ExceptionMaker
 build_property.RootNamespace = ExceptionMaker
-build_property.ProjectDir = C:\Sources\Repositories\ms-jonnathan-repository\exceptions-maker-app\ExceptionMaker\ExceptionMaker\
+build_property.ProjectDir = C:\Sources\ms-jonnathan-repository\exceptions-maker-app\ExceptionMaker\ExceptionMaker\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Sources\Repositories\ms-jonnathan-repository\exceptions-maker-app\ExceptionMaker\ExceptionMaker
+build_property.MSBuildProjectDirectory = C:\Sources\ms-jonnathan-repository\exceptions-maker-app\ExceptionMaker\ExceptionMaker
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Sources/Repositories/ms-jonnathan-repository/exceptions-maker-app/ExceptionMaker/ExceptionMaker/Views/Home/Index.cshtml]
+[C:/Sources/ms-jonnathan-repository/exceptions-maker-app/ExceptionMaker/ExceptionMaker/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Sources/Repositories/ms-jonnathan-repository/exceptions-maker-app/ExceptionMaker/ExceptionMaker/Views/Home/MathExceptionGeneration.cshtml]
+[C:/Sources/ms-jonnathan-repository/exceptions-maker-app/ExceptionMaker/ExceptionMaker/Views/Home/MathExceptionGeneration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYXRoRXhjZXB0aW9uR2VuZXJhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Sources/Repositories/ms-jonnathan-repository/exceptions-maker-app/ExceptionMaker/ExceptionMaker/Views/Home/MemoryLeakGeneration.cshtml]
+[C:/Sources/ms-jonnathan-repository/exceptions-maker-app/ExceptionMaker/ExceptionMaker/Views/Home/MemoryLeakGeneration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZW1vcnlMZWFrR2VuZXJhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Sources/Repositories/ms-jonnathan-repository/exceptions-maker-app/ExceptionMaker/ExceptionMaker/Views/Home/Privacy.cshtml]
+[C:/Sources/ms-jonnathan-repository/exceptions-maker-app/ExceptionMaker/ExceptionMaker/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Sources/Repositories/ms-jonnathan-repository/exceptions-maker-app/ExceptionMaker/ExceptionMaker/Views/Home/StackOverflowExceptionGeneration.cshtml]
+[C:/Sources/ms-jonnathan-repository/exceptions-maker-app/ExceptionMaker/ExceptionMaker/Views/Home/StackOverflowExceptionGeneration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdGFja092ZXJmbG93RXhjZXB0aW9uR2VuZXJhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Sources/Repositories/ms-jonnathan-repository/exceptions-maker-app/ExceptionMaker/ExceptionMaker/Views/Shared/Error.cshtml]
+[C:/Sources/ms-jonnathan-repository/exceptions-maker-app/ExceptionMaker/ExceptionMaker/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Sources/Repositories/ms-jonnathan-repository/exceptions-maker-app/ExceptionMaker/ExceptionMaker/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Sources/ms-jonnathan-repository/exceptions-maker-app/ExceptionMaker/ExceptionMaker/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Sources/Repositories/ms-jonnathan-repository/exceptions-maker-app/ExceptionMaker/ExceptionMaker/Views/_ViewImports.cshtml]
+[C:/Sources/ms-jonnathan-repository/exceptions-maker-app/ExceptionMaker/ExceptionMaker/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Sources/Repositories/ms-jonnathan-repository/exceptions-maker-app/ExceptionMaker/ExceptionMaker/Views/_ViewStart.cshtml]
+[C:/Sources/ms-jonnathan-repository/exceptions-maker-app/ExceptionMaker/ExceptionMaker/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Sources/Repositories/ms-jonnathan-repository/exceptions-maker-app/ExceptionMaker/ExceptionMaker/Views/Shared/_Layout.cshtml]
+[C:/Sources/ms-jonnathan-repository/exceptions-maker-app/ExceptionMaker/ExceptionMaker/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ynkivity33
