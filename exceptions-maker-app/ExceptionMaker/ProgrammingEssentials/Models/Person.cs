@@ -27,7 +27,7 @@ namespace ProgrammingEssentials.Models
         //OVERRIDING FUNCTIONS
         public override string ToString()
         {
-            return $"Name: {name}\nLast name: {lastName}\nAge:{age}";
+            return $"Name: {name}\nLast name:aaaaaaaa {lastName}\nAge:{age}";
         }
 
         //OBJECT VOID FUNCTIONS

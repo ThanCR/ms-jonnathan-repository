@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jonna\\.nuget\\packages\\": {}
+    "C:\\Users\\jonnathan.rios\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sources\\ms-jonnathan-repository\\exceptions-maker-app\\ExceptionMaker\\ProgrammingEssentials\\ProgrammingEssentials.csproj",
+      "projectUniqueName": "C:\\Sources\\Repositories\\ms-jonnathan-repository\\exceptions-maker-app\\ExceptionMaker\\ProgrammingEssentials\\ProgrammingEssentials.csproj",
       "projectName": "ProgrammingEssentials",
-      "projectPath": "C:\\Sources\\ms-jonnathan-repository\\exceptions-maker-app\\ExceptionMaker\\ProgrammingEssentials\\ProgrammingEssentials.csproj",
-      "packagesPath": "C:\\Users\\jonna\\.nuget\\packages\\",
-      "outputPath": "C:\\Sources\\ms-jonnathan-repository\\exceptions-maker-app\\ExceptionMaker\\ProgrammingEssentials\\obj\\",
+      "projectPath": "C:\\Sources\\Repositories\\ms-jonnathan-repository\\exceptions-maker-app\\ExceptionMaker\\ProgrammingEssentials\\ProgrammingEssentials.csproj",
+      "packagesPath": "C:\\Users\\jonnathan.rios\\.nuget\\packages\\",
+      "outputPath": "C:\\Sources\\Repositories\\ms-jonnathan-repository\\exceptions-maker-app\\ExceptionMaker\\ProgrammingEssentials\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jonna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jonnathan.rios\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,8 +51,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -61,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
