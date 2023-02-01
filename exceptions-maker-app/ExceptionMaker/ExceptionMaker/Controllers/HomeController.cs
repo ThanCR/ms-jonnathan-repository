@@ -52,12 +52,18 @@ namespace ExceptionMaker.Controllers
 
         public static void generateMemoryLeak()
         {
-            string[] values = { };
-           
-            
-            for (int x = 0;  values.Length < 10000000; x++)
+            loadItems();
+        }
+
+        private static void loadItems()
+        {
+            var list = new List<byte[]>();
+            int x = 0;
+            while (x < 900)
             {
-                values[x] = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
+                list.Add(new byte[10000000]); // Change the size here.
+                Thread.Sleep(300); // Change the wait time here.
+                x++;
             }
         }
 
